@@ -1,0 +1,23 @@
+{
+  "name": "materialdesignlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmona-henry/materialdesignlite.git"
+  },
+  "author": "rahmona henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmona-henry/materialdesignlite/issues"
+  },
+  "homepage": "https://github.com/rahmona-henry/materialdesignlite#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "material-design-lite": "^1.2.1"
+  }
+}
