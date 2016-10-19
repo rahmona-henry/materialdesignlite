@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/rahmona-henry/materialdesignlite#readme",
   "dependencies": {
-    "express": "^4.14.0",
-    "material-design-lite": "^1.2.1"
+    "express": "^4.14.0"
   }
 }
